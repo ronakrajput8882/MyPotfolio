@@ -111,6 +111,7 @@ start index.html   # Windows
 
 | Tool | Purpose |
 |:---|:---|
+| Python | PyTorch |
 | HTML5 | Page structure and semantic markup |
 | CSS3 | Styling, layout, responsiveness |
 | JavaScript (ES6+) | Interactivity, animations, DOM manipulation |
