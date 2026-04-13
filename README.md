@@ -10,7 +10,6 @@
 </div>
 
 ---
-
 ## 📌 Project Overview
 
 **MyPortfolio** is my personal developer portfolio website built to showcase my projects, skills, and experience as an AIML Engineer. The site highlights end-to-end ML pipelines, full-stack projects, and internship work — all presented in a clean, responsive, JavaScript-driven interface.
