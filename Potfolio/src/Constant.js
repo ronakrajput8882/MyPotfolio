@@ -6,6 +6,9 @@ import reactjsLogo from "./assets/tech_logo/reactjs.png";
 import cLogo from "./assets/tech_logo/c.png";
 import reduxLogo from "./assets/tech_logo/redux.png";
 
+import FastAPILogo from "./assets/tech_logo/FastAPI.png";
+import FlaskLogo from "./assets/tech_logo/Flask.png";
+
 import tailwindcssLogo from "./assets/tech_logo/tailwindcss.png";
 
 import materialuiLogo from "./assets/tech_logo/materialui.png";
@@ -76,6 +79,8 @@ export const SkillsInfo = [
       { name: "Express JS", logo: expressjsLogo },
       { name: "MySQL", logo: mysqlLogo },
       { name: "MongoDB", logo: mongodbLogo },
+      { name: "FastAPI", logo: FastAPILogo },
+      { name: "Flask", logo: FlaskLogo },
     ],
   },
 ];
